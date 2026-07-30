@@ -6,7 +6,7 @@ In the mini project, I built the program to calculate with two lists and show st
 
 # 2. How program work?
 
-When you run script in the terminal. You will setup the size of data in two lists and input value into two list. Two list send values to calculate Mean, Median, Variance, Standard Deviation, Correlation, Slope and Intercept. You also input values to calculate Prediction Value with Slope and Intercept from two lists.
+When you run script in the terminal. You will setup the size of data in two lists and input value into two list. Two list send values to calculate Mean, Median, Variance, Standard Deviation, Correlation, Slope and Intercept. You also input a value to calculate Prediction Value with Slope and Intercept from two lists.
 
 # 3. Result
 
