@@ -1,1 +1,1 @@
-# KhemKSCODE_ESC
+# Easy Statistical Calculation Program
