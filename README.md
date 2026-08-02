@@ -11,7 +11,3 @@ When you run script in the terminal. You will setup the size of data in two list
 # 3. Result
 
 The script will give Mean, Median, Variance, Standard Deviation, Correlation, Slope and Intercept.
-
-# 4. Source
-
-Python Documentation (https://docs.python.org/3/)
