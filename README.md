@@ -14,4 +14,4 @@ The script will give Mean, Median, Variance, Standard Deviation, Correlation, Sl
 
 # 4. Source
 
-Python 3.14.6 Documentation (https://docs.python.org/3/)
+Python Documentation (https://docs.python.org/3/)
